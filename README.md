@@ -2,10 +2,10 @@
 
 command 1
 ````
-npm instal
+npm install
 ````
 
 command 2
 ````
 node index.js
-```
+
